@@ -205,7 +205,7 @@ class EscapePod(Scene):
 			clear of interference. You get to the chamber
 			escape pods, and new need to pick one to take 
 			them could be damaged but you don't have time 
-			There's 5 pods, which one do you take?						
+			There's 5 pods, which one do you take ?						
 			"""))
 
         good_pod = randint(1, 5)
