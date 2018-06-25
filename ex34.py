@@ -1,4 +1,5 @@
 animals = ['bear', 'python3.6', 'peacock', 'kangaroo', 'whale', 'platypus']
+
 bear = animals[0]
 python = animals[1]
 peacock = animals[2]
